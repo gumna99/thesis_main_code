@@ -1,10 +1,9 @@
-# 以深度學習分析機車駕駛風險指跡應用於駕駛行為車險服務
-## Analyzing Motorcyclist's Risk-aware Fingerprint for the Usage-based Insurance by Using Deep Learning
+# 以深度學習分析機車駕駛風險指跡應用於駕駛行為車險服務 Analyzing Motorcyclist's Risk-aware Fingerprint for the Usage-based Insurance by Using Deep Learning
 - 碩士論文之主要程式碼。
 - 僅節錄重要程式碼、模型，不包含實驗等過程。
 - 論文待審查發表，目前不公開
 
-
+![image](https://github.com/gumna99/thesis_main_code/blob/master/Framework.png)
 
 
 
